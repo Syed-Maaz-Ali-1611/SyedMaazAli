@@ -132,7 +132,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Backedn Developer",
+    title: "Backend Developer",
     company_name: "Abidi Solutions",
     icon: abidi,
     iconBg: "#383E56",
